@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шарпы2", "Шарпы2\Шарпы2.csproj", "{66D3EF68-90D5-4755-BAE7-88D4E17C227A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D3EF68-90D5-4755-BAE7-88D4E17C227A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D3EF68-90D5-4755-BAE7-88D4E17C227A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D3EF68-90D5-4755-BAE7-88D4E17C227A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D3EF68-90D5-4755-BAE7-88D4E17C227A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F9310B-0787-4D96-88CD-A679A9321B16}
+	EndGlobalSection
+EndGlobal
